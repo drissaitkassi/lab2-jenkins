@@ -41,7 +41,6 @@
     </dependencies>
 
     <build>
-        <finalName>${artifactId}</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-war-plugin</artifactId>
